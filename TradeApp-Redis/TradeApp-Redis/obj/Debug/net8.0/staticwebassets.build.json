@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mb4gWY/s/GL0eYMHqlfTBDDl11tYmsrK1k9NZtYeGD0=",
+  "Source": "TradeApp-Redis",
+  "BasePath": "_content/TradeApp-Redis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

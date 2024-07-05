@@ -1,0 +1,17 @@
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\bin\Debug\net8.0\RabbitMQStock.exe
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\bin\Debug\net8.0\RabbitMQStock.deps.json
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\bin\Debug\net8.0\RabbitMQStock.runtimeconfig.json
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\bin\Debug\net8.0\RabbitMQStock.dll
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\bin\Debug\net8.0\RabbitMQStock.pdb
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\RabbitMQStock.csproj.AssemblyReference.cache
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\RabbitMQStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\RabbitMQStock.AssemblyInfoInputs.cache
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\RabbitMQStock.AssemblyInfo.cs
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\RabbitMQStock.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\RabbitMQ.4AF51E46.Up2Date
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\RabbitMQStock.dll
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\refint\RabbitMQStock.dll
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\RabbitMQStock.pdb
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\RabbitMQStock.genruntimeconfig.cache
+C:\Users\muhammad.hassam\OneDrive - Logiciel Services LLC\Desktop\POC's\Trade APP Redis\TradeApp-Redis\RabbitMQStock\obj\Debug\net8.0\ref\RabbitMQStock.dll
